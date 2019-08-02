@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "bs58check": "^2.1.2"
+  }
+}

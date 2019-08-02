@@ -4,11 +4,17 @@
 
 Here is a [Litecoin P2SH Converter](https://litecoin-project.github.io/p2sh-convert/).
 
-It claimed it's [Open Sorce](https://github.com/litecoin-project/p2sh-convert).
+It claimed it's [Open Source](https://github.com/litecoin-project/p2sh-convert).
 
 But the code is `jsminified`.
 
 劣者表示强烈谴责！
+
+## Install
+
+```
+yarn install
+```
 
 ## Usage
 

@@ -26,7 +26,7 @@ function convert(str) {
         const three = bsc.encode(buffer)
         console.log(three, '<-', str)
       } else {
-        console.error(`convert('${str}') error: invalid version byte`)
+        console.error(`convert('${str}') error: invalid version byte, ${buffer[0]}`)
       }
     } else {
       console.error(`convert('${str}') error: invalid length`)
